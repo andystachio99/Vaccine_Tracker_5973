@@ -112,7 +112,6 @@ ID: R001 | Age group: 18+
   - COVID-19 on 2026-09-01
 
 Choose an option: 0
-Goodbye!
 ```
 
 ## 8. Limitations and Future Improvements
